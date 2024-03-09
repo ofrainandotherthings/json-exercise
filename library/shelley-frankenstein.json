@@ -1,0 +1,9 @@
+{
+  "book":
+   [
+    {"author": {"firstName": "Mary", "lastName": "Shelley"}}, 
+    {"title": "Frankenstein"}, 
+    {"publicationYear": 1818}, 
+    {"hardcover": true}
+   ]
+}
